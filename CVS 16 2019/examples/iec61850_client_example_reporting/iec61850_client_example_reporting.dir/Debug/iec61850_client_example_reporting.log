@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Users/dario/Desktop/libiec61850-1.4.2.1/examples/iec61850_client_example_reporting/CMakeLists.txt
+  client_example_reporting.c
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\examples\iec61850_client_example_reporting\client_example_reporting.c(37,19): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\examples\iec61850_client_example_reporting\client_example_reporting.c(54,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  iec61850_client_example_reporting.vcxproj -> C:\Users\dario\Desktop\libiec61850-1.4.2.1\CVS 16 2019\examples\iec61850_client_example_reporting\Debug\iec61850_client_example_reporting.exe

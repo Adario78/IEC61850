@@ -1,0 +1,6 @@
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\libiec61850-1.4.2.1\dotnet\IEC61850forCSharp\bin\Debug\iec61850dotnet.dll
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\libiec61850-1.4.2.1\dotnet\IEC61850forCSharp\bin\Debug\iec61850dotnet.pdb
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\libiec61850-1.4.2.1\dotnet\IEC61850forCSharp\obj\Debug\IEC61850.NET.csprojAssemblyReference.cache
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\libiec61850-1.4.2.1\dotnet\IEC61850forCSharp\obj\Debug\IEC61850.NET.csproj.CoreCompileInputs.cache
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\libiec61850-1.4.2.1\dotnet\IEC61850forCSharp\obj\Debug\iec61850dotnet.dll
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\libiec61850-1.4.2.1\dotnet\IEC61850forCSharp\obj\Debug\iec61850dotnet.pdb

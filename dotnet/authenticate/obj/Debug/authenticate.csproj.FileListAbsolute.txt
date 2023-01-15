@@ -1,0 +1,9 @@
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\authenticate\bin\Debug\authenticate.exe
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\authenticate\bin\Debug\authenticate.pdb
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\authenticate\bin\Debug\iec61850dotnet.dll
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\authenticate\bin\Debug\iec61850dotnet.pdb
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\authenticate\obj\Debug\authenticate.csproj.CoreCompileInputs.cache
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\authenticate\obj\Debug\authenticate.csproj.CopyComplete
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\authenticate\obj\Debug\authenticate.exe
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\authenticate\obj\Debug\authenticate.pdb
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\authenticate\obj\Debug\authenticate.csprojAssemblyReference.cache

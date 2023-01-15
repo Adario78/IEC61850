@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\dario\Desktop\libiec61850-1.4.2.1\examples\server_example_complex_array\server_example_ca.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\dario\Desktop\libiec61850-1.4.2.1\examples\server_example_complex_array\static_model.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\dario\Desktop\libiec61850-1.4.2.1\examples\server_example_complex_array\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{0A7542B5-81FE-3E25-969B-938E503714BA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

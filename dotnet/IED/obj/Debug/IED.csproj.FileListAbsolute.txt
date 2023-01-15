@@ -1,0 +1,13 @@
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\IED\bin\Debug\IED.exe.config
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\IED\bin\Debug\IED.exe
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\IED\bin\Debug\IED.pdb
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\IED\obj\Debug\IED.csprojAssemblyReference.cache
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\IED\obj\Debug\IED.Properties.Resources.resources
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\IED\obj\Debug\IED.csproj.GenerateResource.cache
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\IED\obj\Debug\IED.csproj.CoreCompileInputs.cache
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\IED\obj\Debug\IED.exe
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\IED\obj\Debug\IED.pdb
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\IED\bin\Debug\iec61850dotnet.dll
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\IED\bin\Debug\iec61850dotnet.pdb
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\IED\obj\Debug\IED.Form1.resources
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\IED\obj\Debug\IED.csproj.CopyComplete

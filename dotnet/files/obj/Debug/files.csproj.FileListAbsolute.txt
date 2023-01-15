@@ -1,0 +1,8 @@
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\files\bin\Debug\files.exe
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\files\bin\Debug\files.pdb
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\files\bin\Debug\iec61850dotnet.dll
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\files\bin\Debug\iec61850dotnet.pdb
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\files\obj\Debug\files.csproj.CoreCompileInputs.cache
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\files\obj\Debug\files.csproj.CopyComplete
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\files\obj\Debug\files.exe
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\files\obj\Debug\files.pdb

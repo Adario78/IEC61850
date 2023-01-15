@@ -1,0 +1,9 @@
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\control\bin\Debug\control.exe
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\control\bin\Debug\control.pdb
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\control\bin\Debug\iec61850dotnet.dll
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\control\bin\Debug\iec61850dotnet.pdb
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\control\obj\Debug\control.csproj.CoreCompileInputs.cache
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\control\obj\Debug\control.csproj.CopyComplete
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\control\obj\Debug\control.exe
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\control\obj\Debug\control.pdb
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\control\obj\Debug\control.csprojAssemblyReference.cache

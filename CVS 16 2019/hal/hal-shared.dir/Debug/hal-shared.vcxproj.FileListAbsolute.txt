@@ -1,0 +1,2 @@
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\CVS 16 2019\hal\Debug\hal-shared.pdb
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\CVS 16 2019\hal\hal-shared.dir\Debug\hal-shared.pdb

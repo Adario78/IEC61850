@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/Users/dario/Desktop/libiec61850-1.4.2.1/examples/iec61850_client_example_async/CMakeLists.txt
+  client_example_async.c
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\examples\iec61850_client_example_async\client_example_async.c(53,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\examples\iec61850_client_example_async\client_example_async.c(173,110): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\examples\iec61850_client_example_async\client_example_async.c(177,108): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  iec61850_client_async.vcxproj -> C:\Users\dario\Desktop\libiec61850-1.4.2.1\CVS 16 2019\examples\iec61850_client_example_async\Debug\iec61850_client_async.exe

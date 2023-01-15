@@ -1,0 +1,11 @@
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\example2\bin\Debug\example2.exe
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\example2\bin\Debug\example2.pdb
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\example2\bin\Debug\iec61850dotnet.dll
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\example2\bin\Debug\iec61850dotnet.pdb
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\example2\obj\Debug\example2.csproj.CoreCompileInputs.cache
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\example2\obj\Debug\example2.csproj.CopyComplete
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\example2\obj\Debug\example2.exe
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\example2\obj\Debug\example2.pdb
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\example2\obj\Debug\example2.csprojAssemblyReference.cache
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\example2\obj\Debug\control.Form1.resources
+C:\Users\dario\Desktop\libiec61850-1.4.2.1\dotnet\example2\obj\Debug\example2.csproj.GenerateResource.cache

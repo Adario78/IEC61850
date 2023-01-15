@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\dario\Desktop\libiec61850-1.4.2.1\CVS 16 2019\CMakeFiles\9e50d6d1c723f9bfd5207c5911236b20\RUN_TESTS_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A9467F06-1B1C-3BAA-ABD3-F9A9B08E2BB2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

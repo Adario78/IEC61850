@@ -1,0 +1,10 @@
+^C:\USERS\DARIO\DESKTOP\LIBIEC61850-1.4.2.1\EXAMPLES\SERVER_EXAMPLE_COMPLEX_ARRAY\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/dario/Desktop/libiec61850-1.4.2.1 "-BC:/Users/dario/Desktop/libiec61850-1.4.2.1/CVS 16 2019" --check-stamp-file "C:/Users/dario/Desktop/libiec61850-1.4.2.1/CVS 16 2019/examples/server_example_complex_array/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Users/dario/Desktop/libiec61850-1.4.2.1/examples/server_example_simple/CMakeLists.txt
+  server_example_simple.c
+  static_model.c
+  Generating Code...
+  server_example_simple.vcxproj -> C:\Users\dario\Desktop\libiec61850-1.4.2.1\CVS 16 2019\examples\server_example_simple\Debug\server_example_simple.exe
